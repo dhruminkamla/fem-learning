@@ -1,0 +1,25 @@
+# ---- C/C++ ----
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Data ----
+*.csv
+*.dat
+*.tmp
+
+# ---- Editor / OS ----
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
